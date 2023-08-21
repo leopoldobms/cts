@@ -1,0 +1,4 @@
+include:
+  - project: 'center-pag/pipeline'
+    ref: master
+    file: '/cts/.gitlab-ci.yml'

@@ -1,0 +1,8 @@
+app:
+  container_name: cts
+  build: ./
+  volumes:
+    - ./:/app
+  command: python app.py
+  ports:
+    - "5000:5000"

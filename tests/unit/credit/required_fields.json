@@ -1,0 +1,18 @@
+{
+   "transaction_id": "179db6f6-b27d-4c4f-be3c-bbc098928a40",
+   "reference": "Your order number Your order number",
+   "payment": {
+      "amount": 1000,
+      "currency": "BRL",
+      "installments": 12,
+      "capture": "SYNCHRONOUS",
+      "softDescriptor": "CENTERPAG MEL"
+   },
+   "creditCard": {
+      "number": "5162738495069584",
+      "expiryMonth": 2,
+      "expiryYear": 2050,
+      "securityCode": "748"
+   },
+   "clientAccountId": "31ac4b07-60c9-475b-8df8-bc0ea41c7c53"
+}

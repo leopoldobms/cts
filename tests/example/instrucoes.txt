@@ -1,0 +1,10 @@
+Instruções
+
+1) Para executar o teste executar o comando
+pytest test_transacao.py
+
+2) Todos os arquivos de teste devem se iniciar com a nomenclatura test
+
+3) Para verificar a cobertura de código executar
+coverage run -m pytest test_transacao.py
+coverage report -m
